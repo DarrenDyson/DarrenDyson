@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Darren 
 
-<!--
-**DarrenDyson/DarrenDyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Professional focused on computer networking, systems administration, and building practical IT skills through hands-on labs.
 
-Here are some ideas to get you started:
+I'm documenting my journey as I continue developing real-world technical experience and transition toward network engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Cisco Networking 
+- Packet Tracer Labs
+- Windows Server & Active Directory
+- Microsoft Intune & Microsoft 365
+- PowerShell/Python
+- Git & GitHub
+
+## Current Project
+
+🔹 VLAN Configuration Lab (In Progress)
+
+## Connect With Me
+
+- LinkedIn:
+  https://www.linkedin.com/in/darren-dyson-2b655323a/
+
+- YouTube:
+  https://www.youtube.com/@DarrenNetworks
+
+---
