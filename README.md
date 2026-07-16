@@ -1,6 +1,6 @@
 # Hey, I'm Darren 
 
-IT Professional focused on computer networking, systems administration, and building practical IT skills through hands-on labs.
+IT Professional focused on networking, systems administration, and building practical IT skills through hands-on labs and real-world projects. 
 
 I'm documenting my journey as I continue developing real-world technical experience and transition toward network engineering.
 
@@ -10,7 +10,7 @@ I'm documenting my journey as I continue developing real-world technical experie
 - Packet Tracer Labs
 - Windows Server & Active Directory
 - Microsoft Intune & Microsoft 365
-- PowerShell/Python
+- PowerShell/Python scripting 
 - Git & GitHub
 
 ## Current Project
