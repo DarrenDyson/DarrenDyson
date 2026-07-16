@@ -18,11 +18,9 @@ I'm documenting my journey as I continue developing real-world technical experie
 🔹 VLAN Configuration Lab (In Progress)
 
 ## Connect With Me
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DarrenNetworks)
 
-- LinkedIn:
-  https://www.linkedin.com/in/darren-dyson-2b655323a/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darren-dyson-2b655323a/)
 
-- YouTube:
-  https://www.youtube.com/@DarrenNetworks
 
 ---
